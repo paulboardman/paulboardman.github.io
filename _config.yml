@@ -1,11 +1,12 @@
 # Site settings
-title: GeekBrainDump2
+title: R-kid
 email: paulboardman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     A site about coding, statistics, data, data science, and other fun stuff.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://paulboardman.github.io" # the base hostname & protocol for your site
 github_username:  paulboardman
+theme: jekyll-theme-tactile
 
 # Build settings
 markdown: kramdown
